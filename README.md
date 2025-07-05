@@ -1,26 +1,43 @@
-# Olá! Sou Carlos Vieira da Silva 👋
+<h1 align="center">Fala aí! 👋 Eu sou o Carlinhos</h1>
 
-🔧 Estudante de **Análise e Desenvolvimento de Sistemas** com uma paixão por **tecnologia** e **programação**.  
-🎓 Atualmente em busca de novos desafios e aprendizado na área de **desenvolvimento web** e **análise de dados**.  
-📚 Aqui você encontrará meus projetos, estudos e códigos relacionados a **desenvolvimento de software**, **programação web**, e **análise de dados**.
-
-## 🛠️ Ferramentas e Tecnologias:
-- **Linguagens**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Node.js, React (em aprendizado)
-- **Ferramentas**: Git, GitHub, Power BI, SQL
-- **Sistemas Operacionais**: Windows, Linux
-
-## 📂 Projetos:
-- **[Projeto 1](link-do-projeto)**: Descrição do projeto que você está trabalhando, pode ser algo simples como um **site** ou **aplicativo web**.
-- **[Projeto 2](link-do-projeto)**: Outro projeto de interesse, como um **script** de automação ou análise de dados que você tenha desenvolvido.
-  
-🎯 Estou aberto a contribuições! Se você tem ideias ou sugestões, fique à vontade para me enviar uma mensagem ou fazer um pull request.
-
-## 🔗 Conecte-se comigo:
-- [LinkedIn](link-do-linkedin)  
-- [Twitter](link-do-twitter, se houver)  
-- [Email](mailto:silvac.889@gmail.com)
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Faculdade Estácio  
+📊 Apaixonado por **Análise de Dados** — onde números viram decisões  
+🏛️ Curso de **Banco de Dados** concluído no Instituto Federal do Rio Grande do Sul (IFRS)  
+🚀 Atualmente mergulhado num bootcamp pela **DIO**, focando em Data Science e Big Data  
+📈 Explorando Python, SQL, Power BI, Git e tudo que envolve dados!
 
 ---
 
-💡 **"O aprendizado nunca acaba. Cada novo código é uma oportunidade para evoluir."**
+### 👨‍💻 Sobre mim
+Sou um entusiasta da tecnologia que acredita que **dados bem trabalhados contam histórias poderosas**.  
+Meu foco é aprender cada dia mais e aplicar esse conhecimento em projetos que fazem a diferença.  
+Buscando meu espaço como futuro **Analista de Dados**, mas com uma base sólida em sistemas!
+
+---
+
+### 🧰 Tecnologias que venho estudando:
+- 📊 **Python** (Pandas, Matplotlib, Seaborn)
+- 🧮 **SQL** (PostgreSQL, MySQL)
+- 📈 **Power BI**
+- 🛠️ **Git & GitHub**
+- 🌐 No radar: APIs, Machine Learning, Big Data
+
+---
+
+### 📂 Repositórios em construção:
+- `analise-dados-vendas` → Dashboard e insights de um e-commerce fictício
+- `projeto-powerbi-financas` → Relatório financeiro interativo com Power BI
+- `sql-projetos` → Consultas SQL para resolver problemas reais com dados
+
+*(Os projetos estão chegando, e vão vir afiados!)*
+
+---
+
+### 📫 Onde me encontrar:
+- 🔗 [LinkedIn – SeuNomeAqui](https://linkedin.com/in/seunome)  
+- 📧 seunome@email.com
+
+---
+
+> _“A melhor maneira de prever o futuro é construí-lo — com dados, claro.”_  
+> — Carlinhos, futuro cientista dos dados 😄
