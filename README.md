@@ -10,21 +10,32 @@ Busco oportunidades na área de Suporte Técnico N1, com disposição para apren
 
 🧰 Conhecimentos e competências
 
-Suporte Técnico N1 / Help Desk
+Suporte Técnico N1 / Help Desk  
+
 Atendimento ao usuário (presencial e remoto)
+
 Sistemas Windows (instalação, configuração e troubleshooting)
+
 Noções de redes de computadores (IP, DNS, Wi-Fi)
+
 Abertura, acompanhamento e encerramento de chamados
+
 Conceitos de SLA e priorização de incidentes
+
 Noções de Segurança da Informação
+
 Documentação técnica e organização de processos
+
 Git & GitHub para versionamento e estudos
 
 📂 Repositórios em desenvolvimento
 
 helpdesk-estudos — Conceitos e práticas de suporte técnico e Service Desk
+
 windows-suporte — Soluções para problemas comuns em ambientes Windows
+
 redes-basico — Fundamentos de redes aplicados ao suporte de TI
+
 checklists-suporte-ti — Checklists práticos para rotina de atendimento
 
 🎯 Objetivo profissional
