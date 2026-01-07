@@ -1,43 +1,33 @@
-<h1 align="center">Fala aí! 👋 Eu sou o Carlinhos</h1>
+<h1 align="center">Carlinhos</h1> <p align="center"> Suporte de TI • Help Desk • Service Desk </p>
+👨‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Faculdade Estácio  
-📊 Apaixonado por **Análise de Dados** — onde números viram decisões  
-🏛️ Curso de **Banco de Dados** concluído no Instituto Federal do Rio Grande do Sul (IFRS)  
-🚀 Atualmente mergulhado num bootcamp pela **DIO**, focando em Data Science e Big Data  
-📈 Explorando Python, SQL, Power BI, Git e tudo que envolve dados!
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Suporte de TI / Help Desk, atuando no desenvolvimento de habilidades práticas para atendimento ao usuário, resolução de incidentes e suporte a ambientes corporativos.
+Tenho interesse em trabalhar diretamente com usuários, identificar causas de problemas técnicos e aplicar soluções eficientes, prezando pela organização, comunicação clara e cumprimento de prazos.
+Busco oportunidades na área de Suporte Técnico N1, com disposição para aprendizado contínuo e crescimento profissional.
 
----
+🧰 Conhecimentos e competências
 
-### 👨‍💻 Sobre mim
-Sou um entusiasta da tecnologia que acredita que **dados bem trabalhados contam histórias poderosas**.  
-Meu foco é aprender cada dia mais e aplicar esse conhecimento em projetos que fazem a diferença.  
-Buscando meu espaço como futuro **Analista de Dados**, mas com uma base sólida em sistemas!
+Suporte Técnico N1 / Help Desk
+Atendimento ao usuário (presencial e remoto)
+Sistemas Windows (instalação, configuração e troubleshooting)
+Noções de redes de computadores (IP, DNS, Wi-Fi)
+Abertura, acompanhamento e encerramento de chamados
+Conceitos de SLA e priorização de incidentes
+Noções de Segurança da Informação
+Documentação técnica e organização de processos
+Git & GitHub para versionamento e estudos
 
----
+📂 Repositórios em desenvolvimento
 
-### 🧰 Tecnologias que venho estudando:
-- 📊 **Python** (Pandas, Matplotlib, Seaborn)
-- 🧮 **SQL** (PostgreSQL, MySQL)
-- 📈 **Power BI**
-- 🛠️ **Git & GitHub**
-- 🌐 No radar: APIs, Machine Learning, Big Data
+helpdesk-estudos — Conceitos e práticas de suporte técnico e Service Desk
+windows-suporte — Soluções para problemas comuns em ambientes Windows
+redes-basico — Fundamentos de redes aplicados ao suporte de TI
+checklists-suporte-ti — Checklists práticos para rotina de atendimento
 
----
+🎯 Objetivo profissional
 
-### 📂 Repositórios em construção:
-- `analise-dados-vendas` → Dashboard e insights de um e-commerce fictício
-- `projeto-powerbi-financas` → Relatório financeiro interativo com Power BI
-- `sql-projetos` → Consultas SQL para resolver problemas reais com dados
+Atuar como Analista de Suporte de TI / Help Desk, contribuindo para a estabilidade do ambiente tecnológico, satisfação dos usuários e melhoria contínua dos processos de atendimento.
 
-*(Os projetos estão chegando, e vão vir afiados!)*
-
----
-
-### 📫 Onde me encontrar:
-- 🔗 [LinkedIn – SeuNomeAqui](https://linkedin.com/in/seunome)  
-- 📧 seunome@email.com
-
----
-
-> _“A melhor maneira de prever o futuro é construí-lo — com dados, claro.”_  
-> — Carlinhos, futuro cientista dos dados 😄
+📫 Contato: (71) 982358732 / (75) 920006053
+🔗 LinkedIn: https://www.linkedin.com/in/carlos-silva-7b1a17128/
+📧 E-mail: Carlos_silvac163@hotmail.com
