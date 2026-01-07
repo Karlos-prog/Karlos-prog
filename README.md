@@ -1,5 +1,8 @@
 <h1 align="center">Carlinhos</h1> <p align="center"> Suporte de TI • Help Desk • Service Desk </p>
 👨‍💻 Sobre mim
+<p>
+  
+</p>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Suporte de TI / Help Desk, atuando no desenvolvimento de habilidades práticas para atendimento ao usuário, resolução de incidentes e suporte a ambientes corporativos.
 Tenho interesse em trabalhar diretamente com usuários, identificar causas de problemas técnicos e aplicar soluções eficientes, prezando pela organização, comunicação clara e cumprimento de prazos.
