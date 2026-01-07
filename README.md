@@ -31,6 +31,9 @@ checklists-suporte-ti — Checklists práticos para rotina de atendimento
 
 Atuar como Analista de Suporte de TI / Help Desk, contribuindo para a estabilidade do ambiente tecnológico, satisfação dos usuários e melhoria contínua dos processos de atendimento.
 
-📫 Contato: (71) 982358732 / (75) 920006053
-🔗 LinkedIn: https://www.linkedin.com/in/carlos-silva-7b1a17128/
-📧 E-mail: Carlos_silvac163@hotmail.com
+📫 Contato: (71) 982358732 / (75) 920006053 <P>
+</p>
+🔗 LinkedIn: https://www.linkedin.com/in/carlos-silva-7b1a17128/ <p>
+</p>
+📧 E-mail: Carlos_silvac163@hotmail.com <p>
+</p>
